@@ -161,7 +161,7 @@
 `密码:abc123`
 * 提示：`请不要上传无意义内容，测试号为公开账号，请注意隐私。不要上传违法内容，发现封禁IP`
 
-## Docker 快速安装(推荐)
+## Docker 快速安装(⭐推荐⭐)
 * 1.`docker run -d --restart=always  -p 8089:8088 --name xyos nebstudio/xyos
 `
 * 2.等待出现欢迎提示语,然后浏览器访问`http://网址:8089`
