@@ -43,10 +43,6 @@
 
 
 <br/>
-<p align="center">
-    <a href="https://jq.qq.com/?_wv=1027&k=8TiOCSOZ">
-	<img src="https://img.shields.io/badge/QQ交流群-130906439-orange"/></a>
-</p>
 
 
 <hr />
