@@ -5,7 +5,7 @@
 星芸OS(WebOS)
 </h1>
 <p align="center">
-    <strong>新一代，协同办公私有云-更现代感的，私有云、云盘、网盘、NAS</strong>
+    <strong>新一代协同办公私有云-更现代感的，私有云、云盘、网盘、NAS</strong>
 </p>
 <p align="center">
     <a href="https://support.qq.com/product/605439/">官网</a>
