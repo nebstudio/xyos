@@ -40,10 +40,6 @@
 ![linux](https://img.shields.io/badge/linux-suported-success.svg?logo=linux&logoColor=white)
 ![windows](https://img.shields.io/badge/windows-suported-success.svg?logo=windows)
 
-<p align="center">
-    <a href="">
-	<img src="https://img.shields.io/badge/QQ交流群-130906439-orange"/></a>
-</p>
 
 <hr />
 
